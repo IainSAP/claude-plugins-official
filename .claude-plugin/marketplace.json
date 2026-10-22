@@ -16,7 +16,8 @@
     "atlassian-forge-skills": "forge-skills",
     "azure-skills": "azure",
     "sonarqube-agent-plugins": "sonarqube",
-    "data-agent-kit-starter-pack": "data-agent-kit"
+    "data-agent-kit-starter-pack": "data-agent-kit",
+    "sap-fiori-mcp-server": "sap-ux-fiori-tools"
   },
   "plugins": [
     {
@@ -3413,11 +3414,11 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/SAP/open-ux-tools.git",
-        "path": "packages/fiori-mcp-server",
+        "path": "plugins-coding-agents/fiori",
         "ref": "main",
-        "sha": "69e2c50833f10e6892d7c8f42b98b13133d8fdc3"
+        "sha": "cfec6ca5780912762b50a587978f9c72dcb4923e"
       },
-      "homepage": "https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server"
+      "homepage": "https://github.com/SAP/open-ux-tools/tree/main/plugins-coding-agents/fiori"
     },
     {
       "name": "sap-hana-cli",
